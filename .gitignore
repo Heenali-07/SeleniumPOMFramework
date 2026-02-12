@@ -1,1 +1,9 @@
 /target/
+/bin/
+*.class
+*.log
+.settings/
+.project
+.classpath
+*.exe
+test-output/
